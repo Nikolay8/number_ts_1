@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">number</string>
+    <string name="HTTPS_API_URL">http://numbersapi.com/</string>
+    <string name="number_app">Number App</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="get_fact">Get fact</string>
+    <string name="get_fact_random">Random number fact</string>
+    <string name="something_went_wrong">Something went wrong, please try again</string>
+    <string name="number_detail_title">Details for %s number</string>
+
+</resources>

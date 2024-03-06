@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#93C90E</color>
+    <color name="colorPrimaryDark">#93C90E</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="colorLightGreen">#93C90E</color>
+    <color name="colorBlackOpacity20">#33000000</color>
+    <color name="colorBlackOpacity30">#4D000000</color>
+    <color name="colorDarkGrey">#4d4d4d</color>
+    <color name="colorTextGray">#919396</color>
+    <color name="colorGrayB3">#B3B3B3</color>
+    <color name="colorGray3B">#3b3d3b</color>
+    <color name="colorGrayText">#7c7c7e</color>
+
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="colorGreyDisable">#80BDBDBD</color>
+    <color name="colorDivider">#dfdfe3</color>
+    <color name="colorOrange">#ea7006</color>
+    <color name="colorGreyBackGround">#f8f8fc</color>
+    <color name="colorGrayF7">#f7f7f7</color>
+    <color name="colorPressedWhite">#ebebeb</color>
+    <color name="colorOrangeNoInternet">#e35205</color>
+
+    <color name="colorRedError">#D50C22</color>
+    <color name="splashScreenBackground">#dcdc22</color>
+    <color name="colorGreyBottomNavigation">#b2b2b2</color>
+    <color name="colorGreenDivider">#47a540</color>
+    <color name="colorGreyTextClockIn">#7c7c7c</color>
+
+    <color name="colorBlackLight">#333333</color>
+    <color name="colorGrayStroke">#c6c6ca</color>
+    <color name="colorGrayChip">#E6E6E6</color>
+    <color name="colorDialogText">#8a000000</color>
+    <color name="colorMint">#EBF4D9</color>
+
+</resources>
